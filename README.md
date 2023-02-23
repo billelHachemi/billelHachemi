@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @billelHachemi
 - 👀 I’m interested in ANGULAR JAVA FLUTTER
-- 🌱 I’m currently learning FLUTTER
+- 🌱 I’m currently learning Node js Mongo DB
 - 📫 Reach me on rafikom.io
